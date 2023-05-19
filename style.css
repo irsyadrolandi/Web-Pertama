@@ -1,0 +1,23 @@
+.Navbar{
+    color:blue;
+    text-transform: capitalize;
+    text-align: center;
+}
+.Navbar-List{
+    color:crimson;
+    list-style-type: none;
+}
+
+#Navbar{
+    background-color: #D48166;
+}
+
+#Footer{
+    background-color: #D48166;
+}
+
+.Kotak{
+    background-color: #D48166;
+    width: 100%;
+    height: 100%;
+}
